@@ -1,4 +1,4 @@
-# krok
+# Сroс
 
 ## Project setup
 ```
