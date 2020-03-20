@@ -1,4 +1,4 @@
-# crocrouter
+# crocRouter
 
 ## Project setup
 ```
