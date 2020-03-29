@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
+### Server
 This project dont work without [server](https://github.com/SanjarKariev/CrocSever).
