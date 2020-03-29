@@ -4,6 +4,8 @@
     <write/>
     <p>{{datasend}}</p>
     <button type="button" name="button" @click='ajax'>Get to server</button>
+    <br/>
+    <button type="button" name="button1">Description</button>
   </div>
 </template>
 
@@ -23,7 +25,7 @@ export default {
   },
   data() {
     return {
-      datasend: '!!!ERROR!!!',
+      datasend: 'not conect server',
     }
   },
   methods: {
@@ -42,3 +44,9 @@ export default {
   }
 }
 </script>
+<style scoped>
+   button {
+     width: 250px;
+     margin: 4px;
+   }
+</style>
